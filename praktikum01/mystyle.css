@@ -1,0 +1,9 @@
+h1{
+    font-style: italic;
+    color: aqua;
+}
+
+tr th {
+    font-style: normal;
+    color: chartreuse
+}
